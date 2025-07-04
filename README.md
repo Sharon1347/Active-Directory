@@ -72,7 +72,7 @@ Below is a visual overview of the lab setup showing how the machines are connect
 | **Domain Join Verification**               | screenshots/tsmith.PNG |
 | **Time Resync Success**                    | screenshots/resync.PNG |
 | **Initial Trust Failure Screenshot**       | https://github.com/Sharon1347/Active-Directory/blob/9c20f6a9f8f801c8744d21c0c5aaa722e6a32be0/screenshots/TRUST-failure.PNG|
-| **Successful Direct RDP Connection**       | screenshots/xfreedrp-direct%20connection.PNG |
+| **Successful Direct RDP Connection**       | https://github.com/Sharon1347/Active-Directory/blob/ee428df5e4bca8d1639c086e7789b583d6acbaaf/screenshots/xfreedrp-direct%20%20connection.PNG |
 | **RDP Brute-Force Success (Python Script)** | screenshots/RDP-SUCCESS.PNG |
 
 ---
