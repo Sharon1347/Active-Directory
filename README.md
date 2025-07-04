@@ -33,7 +33,8 @@ Below is a visual overview of the lab setup showing how the machines are connect
 - Installed Active Directory Domain Services (ADDS).
 - Configured the domain: `MYDFIR.LOCAL`.
 - Promoted the machine to a Domain Controller.
-- Set up DNS and other required services.
+- Set up DNS and other required services
+- Created User Accounts like `jsmith` and `tsmith`.
 
 ### ✅ 2. Domain Join (Windows 11 Workstation)
 - Configured network settings to point to the Domain Controller’s DNS.
