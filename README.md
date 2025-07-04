@@ -70,7 +70,7 @@ Below is a visual overview of the lab setup showing how the machines are connect
 
 | Screenshot Description                     | File Path |
 |--------------------------------------------|-----------|
-| **Domain Join Verification**               | screenshots/tsmith.PNG |
+| **Domain Join Verification**               | https://github.com/Sharon1347/Active-Directory/blob/6aeda9e1b5ef5e2c53b8a688c686b43b66cd33e9/screenshots/3.%20joined-domain.PNG |
 | **Time Resync Success**                    | https://github.com/Sharon1347/Active-Directory/blob/a1ccf71b035c1c249525a6158a1720f5366e23ef/screenshots/resync.PNG |
 | **Initial Trust Failure Screenshot**       | https://github.com/Sharon1347/Active-Directory/blob/9c20f6a9f8f801c8744d21c0c5aaa722e6a32be0/screenshots/TRUST-failure.PNG|
 | **Successful Direct RDP Connection**       | https://github.com/Sharon1347/Active-Directory/blob/ee428df5e4bca8d1639c086e7789b583d6acbaaf/screenshots/xfreedrp-direct%20%20connection.PNG |
