@@ -70,7 +70,7 @@ Below is a visual overview of the lab setup showing how the machines are connect
 
 | Screenshot Description                     | File Path |
 |--------------------------------------------|-----------|
-| **Domain Join Verification**               | [Domain Join Verification](https://surl.li/blhlgn) |
+| **Domain Join Verification**               | https://surl.li/blhlgn |
 | **Time Resync Success**                    | https://surl.li/sxtrde |
 | **Initial Trust Failure Screenshot**       | https://surli.cc/moajmx|
 | **Successful Direct RDP Connection**       | https://surl.lu/uemfek |
